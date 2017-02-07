@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Techclub</string>
+    <string name="profile">PROFILE</string>
+    <string name="feed">ABOUT US</string>
+    <string name="activity">TECHCLUB</string>
+    <string name="settings">SETTINGS</string>
+    <string name="title_activity_testing">testing</string>
+</resources>
